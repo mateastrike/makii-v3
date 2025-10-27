@@ -1,0 +1,19 @@
+{
+  "name": "discord-moderation-bot",
+  "version": "1.0.0",
+  "description": "Moderation bot sa autorole, giveaway i ostalim komandama by: Mak1sha",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.24.0",
+    "ms": "^2.1.3"
+  }
+}
